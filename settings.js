@@ -10,27 +10,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['51945463812'] //ur owner number
+global.ownernomer = "51945463812" //ur owner number2
+global.ownername = "📡𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤" //ur owner name
+global.ytname = "YT: SysSolutions" //ur yt chanel name
+global.socialm = "GitHub: SysSolutionsPE" //ur github or insta name
+global.location = "Peru, Lima, Lima" //ur location
 
 //new
-global.botname = "Cheems Bot MD V7"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
-global.websitex = "https://youtu.be/ecl-JDVDz3E"
-global.wagc = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.themeemoji = '🥀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD7' //script link
-global.packname = "Sticker By"
-global.author = "Cheems Bot\n\n\nA whatsapp bot developed by\n🦄Dream Guy Xeon\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.botname = "𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤"
+global.ownernumber = '51945463812'
+global.ownername = '📡𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤'
+global.ownerNumber = ["51945463812@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@syssolutionsperu"
+global.websitex = "https://youtu.be/c/@syssolutionsperu"
+global.wagc = "https://chat.whatsapp.com/I78hAmdyLzt8zBIxOIHRtd"
+global.themeemoji = '💠'
+global.wm = "𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤 Inc."
+global.botscript = 'https://github.com/SysSolutionsPE/cheemsbot7' //script link
+global.packname = "𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤"
+global.author = "SysSolutions Bot\n\n\nA whatsapp bot developed by\n📡SysSolutions\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +916909137213"
+global.creator = "51945463812@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.hituet = 0
 
